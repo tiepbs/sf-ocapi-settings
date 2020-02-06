@@ -4,3 +4,5 @@ The settings in this file serve as a sample on how ressource based client permis
 
 ## How to use?
 Copy the content of the file - or parts of the file that represent your endpoint usage - and paste it into the OCAPI settings in your Business Manager of your connected commerce cloud ecom instance.
+
+The set of permissions references a complete set of endpoints.
