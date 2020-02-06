@@ -322,7 +322,7 @@
             "resource_id":"/stores/*",
             "methods":["get"],
             "read_attributes":"(**)",
-            "write_attributes":"(**)"
+        
           }
         ]
       }
