@@ -1,9 +1,9 @@
 {
-    "_v":"19.10",
+    "_v":"20.2",
     "clients":
     [
       {
-        "client_id":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "client_id":"[your client ID - retrieved from Account Manager]",
         "resources":
         [
           {
